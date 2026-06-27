@@ -1,3 +1,18 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 7af529a0f6360cc6a80ea7b1bc937927_38d63e0571c311f1986d525400d9a7a1
+    ReservedCode1: Aaz/f5n7pNe6UeRbokbicAJJ1tREK5qbi5eD2mI5MOXzzbRayao/4Bo1tyDzQBFIxX+Tl1+aFQNp4KYIyCY+Lpia5HVwJ1F47Ax9qZZ4PTjob3ypB0kGPNsEKogBbY13zd69Ku/KOnHgmBQMsFc9VkifZADde94T/GX+SVzHVLG2PLFB7jWx0OMcHCA=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 7af529a0f6360cc6a80ea7b1bc937927_38d63e0571c311f1986d525400d9a7a1
+    ReservedCode2: Aaz/f5n7pNe6UeRbokbicAJJ1tREK5qbi5eD2mI5MOXzzbRayao/4Bo1tyDzQBFIxX+Tl1+aFQNp4KYIyCY+Lpia5HVwJ1F47Ax9qZZ4PTjob3ypB0kGPNsEKogBbY13zd69Ku/KOnHgmBQMsFc9VkifZADde94T/GX+SVzHVLG2PLFB7jWx0OMcHCA=
+---
+
+
+
+
+
 # AGENTS.md
 ## 最高优先级
 用户指令凌驾所有规则，可突破全部规范
@@ -37,3 +52,6 @@ KISS，拒绝过度设计
 有替代方案主动告知
 容器/基础设施可复现，环境配置隔离
 输出精简，节约token
+*（内容由AI生成，仅供参考）*
+*（内容由AI生成，仅供参考）*
+*（内容由AI生成，仅供参考）*
