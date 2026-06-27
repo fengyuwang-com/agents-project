@@ -1,16 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 7af529a0f6360cc6a80ea7b1bc937927_39aa476971c311f1b2f55254006c9bbf
-    ReservedCode1: vKD0C/N8mNvOvFXXg3MtWqKwOx4XHFoA6KvtHvdWDt8ZOh1eMr43PNJnyQolH0NFzRXFFuemBIE7sYQiDgaDQ+cflg9gjh37Vfo3xkyIloHIxg8S/UDeFz5cjxiwGb+v9EcYdTTrxohEp4tSyEthe26bw+irHta2W3EGZDKMeqzyGqt63oh+1D3QDsg=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 7af529a0f6360cc6a80ea7b1bc937927_39aa476971c311f1b2f55254006c9bbf
-    ReservedCode2: vKD0C/N8mNvOvFXXg3MtWqKwOx4XHFoA6KvtHvdWDt8ZOh1eMr43PNJnyQolH0NFzRXFFuemBIE7sYQiDgaDQ+cflg9gjh37Vfo3xkyIloHIxg8S/UDeFz5cjxiwGb+v9EcYdTTrxohEp4tSyEthe26bw+irHta2W3EGZDKMeqzyGqt63oh+1D3QDsg=
----
-
-
-
 # AGENTS.md 项目基础规范
 
 > A baseline specification for AI coding agents — every project should have one.
@@ -102,5 +89,3 @@ GNU General Public License v3.0 — Derivatives must also be GPL open source.
 ### 许可证
 
 GNU General Public License v3.0 — 衍生作品必须同样以 GPL 开源。
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
